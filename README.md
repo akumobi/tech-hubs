@@ -111,6 +111,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [Softicu Tech Hub](https://softicuhub.org/)
   10, Ogoja Lane, by Okigwe Road Umuahia, Abia State, Nigeria
 
+- [Hub7](https://hub7.com.ng/)
+  61/63, Uwalaka Street, by Ibeku Road off SHoprite, Umuahia, Abia State, Nigeria
+
 ## Adamawa
 
 - [Northeast Hummanitarian Innovation Hub](http://www.new.northeasthub.org/)
